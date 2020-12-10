@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RMelvina/static/css/main.c0be93cb.chunk.css",
+    "main.js": "/RMelvina/static/js/main.666ad627.chunk.js",
+    "main.js.map": "/RMelvina/static/js/main.666ad627.chunk.js.map",
+    "runtime-main.js": "/RMelvina/static/js/runtime-main.179b5e88.js",
+    "runtime-main.js.map": "/RMelvina/static/js/runtime-main.179b5e88.js.map",
+    "static/js/2.190f46fd.chunk.js": "/RMelvina/static/js/2.190f46fd.chunk.js",
+    "static/js/2.190f46fd.chunk.js.map": "/RMelvina/static/js/2.190f46fd.chunk.js.map",
+    "static/js/3.3b3a857c.chunk.js": "/RMelvina/static/js/3.3b3a857c.chunk.js",
+    "static/js/3.3b3a857c.chunk.js.map": "/RMelvina/static/js/3.3b3a857c.chunk.js.map",
+    "index.html": "/RMelvina/index.html",
+    "static/css/main.c0be93cb.chunk.css.map": "/RMelvina/static/css/main.c0be93cb.chunk.css.map",
+    "static/js/2.190f46fd.chunk.js.LICENSE.txt": "/RMelvina/static/js/2.190f46fd.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/RMelvina/static/media/logo.103b5fa1.svg",
+    "static/media/no_Img.647bcb34.png": "/RMelvina/static/media/no_Img.647bcb34.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.179b5e88.js",
+    "static/js/2.190f46fd.chunk.js",
+    "static/css/main.c0be93cb.chunk.css",
+    "static/js/main.666ad627.chunk.js"
+  ]
+}
